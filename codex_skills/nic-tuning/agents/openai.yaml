@@ -1,0 +1,4 @@
+interface:
+  display_name: "NIC Tuning"
+  short_description: "Linux NIC and IRQ performance tuning"
+  default_prompt: "Use $nic-tuning to establish the baseline, interpret counters and topology, and only then recommend the next tuning change."

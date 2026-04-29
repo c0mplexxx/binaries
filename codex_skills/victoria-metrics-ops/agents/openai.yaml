@@ -1,0 +1,4 @@
+interface:
+  display_name: "VictoriaMetrics Ops"
+  short_description: "Incident-grade VictoriaMetrics operations"
+  default_prompt: "Use $victoria-metrics-ops to place the symptom on the VM data path and propose the next safe diagnostic or operational step."

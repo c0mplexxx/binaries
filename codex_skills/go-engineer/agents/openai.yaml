@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Engineer"
+  short_description: "Production-grade Go engineering"
+  default_prompt: "Use $go-engineer to design, implement, review, or optimize production Go code."

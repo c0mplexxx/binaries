@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systems Load Tester"
+  short_description: "Latency and load validation"
+  default_prompt: "Use $systems-load-tester to validate correctness, latency, and stability under load for systems code."

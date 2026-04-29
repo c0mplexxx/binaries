@@ -1,0 +1,4 @@
+interface:
+  display_name: "Observability Fullstack Dev"
+  short_description: "Instrumented production code"
+  default_prompt: "Use $observability-fullstack-dev to build or review code with logs, metrics, and traces from day one."

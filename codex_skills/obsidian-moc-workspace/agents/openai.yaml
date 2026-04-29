@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian MOC Workspace"
+  short_description: "Resume Codex vault work from Codex/MOC.md"
+  default_prompt: "Use $obsidian-moc-workspace to start from /Users/mbarinov/Documents/ObsidiavVault/Codex/MOC.md, read only relevant notes, and preserve links to historical ../Claude notes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Architect"
+  short_description: "Task-spec system decomposition"
+  default_prompt: "Use $system-architect to turn a high-level feature or system idea into precise implementation specs."

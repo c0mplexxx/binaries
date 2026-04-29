@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ Highload Reviewer"
+  short_description: "Hot-path C++ systems review"
+  default_prompt: "Use $cpp-highload-reviewer to review performance-critical C++ code for correctness and throughput."

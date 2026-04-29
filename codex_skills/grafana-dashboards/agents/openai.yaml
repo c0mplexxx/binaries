@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grafana Dashboards"
+  short_description: "Grafana API dashboard editing"
+  default_prompt: "Use $grafana-dashboards to inspect or modify Grafana dashboards through the HTTP API safely."

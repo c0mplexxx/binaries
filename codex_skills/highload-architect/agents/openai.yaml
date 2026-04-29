@@ -1,0 +1,4 @@
+interface:
+  display_name: "Highload Architect"
+  short_description: "Distributed high-load architecture"
+  default_prompt: "Use $highload-architect to design or review a high-load distributed system with explicit trade-offs."

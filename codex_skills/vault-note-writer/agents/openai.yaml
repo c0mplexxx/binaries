@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vault Note Writer"
+  short_description: "Write Codex notes and sync Codex/MOC.md"
+  default_prompt: "Use $vault-note-writer to create or update a durable note under /Users/mbarinov/Documents/ObsidiavVault/Codex/, keep the TL;DR/frontmatter in house style, and sync Codex/MOC.md plus Claude/MOC.md when needed."
